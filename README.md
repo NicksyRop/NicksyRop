@@ -11,7 +11,6 @@ const NicksyRop = {
         },
         backEnd: {
             js: ["node", ,"express"],
-            ruby: ["rails"]
             PHP : ["Laravel"]
         },
         databases: ["Postgres", "MySql", "sqlite" , "Mongo"],
@@ -21,12 +20,6 @@ const NicksyRop = {
 };
 
 ```
-
-
-### Credentials
-
-[scan0014.pdf](https://github.com/NicksyRop/NicksyRop/files/9001524/scan0014.pdf)
-[NICKSON KIPKORIR-CCNAv7 Switching-certificate_2.pdf](https://github.com/NicksyRop/NicksyRop/files/9001530/NICKSON.KIPKORIR-CCNAv7.Switching-certificate_2.pdf)
 
 
 ### My Github Public Stats
