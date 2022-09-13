@@ -3,7 +3,7 @@
 ```
 const NicksyRop = {
     code: ["Javascript", "PHP", "Python"],
-    askMeAbout: ["web development", "tech", "Gaming"],
+    askMeAbout: ["web development","Robotic Process Automation", "tech", "Gaming"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"],
