@@ -2,16 +2,17 @@
 
 ```
 const NicksyRop = {
-    code: ["Javascript", "PHP", "Python"],
+    code: ["Java" , "Javascript", "PHP", "Python"],
     askMeAbout: ["web development","Robotic Process Automation", "tech", "Gaming"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"],
-            js: ["react"]
+            js: ["react" , "React Native"]
         },
         backEnd: {
             js: ["node", ,"express"],
-            PHP : ["Laravel"]
+            PHP : ["Laravel"],
+            JAVA : [ "Spring boot" ,"Soring"]
         },
         databases: ["Postgres", "MySql", "sqlite" , "Mongo"],
     },
