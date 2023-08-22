@@ -1,6 +1,6 @@
 ### Hello , I'm Nickson a full stack software developer.
 
-```js
+```
 const NicksyRop = {
     code: ["Java" , "Javascript", "PHP", "Python"],
     askMeAbout: ["web development","Robotic Process Automation", "tech", "Gaming"],
